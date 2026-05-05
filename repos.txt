@@ -19,3 +19,4 @@ KaringX/karing|\.dmg|\.exe
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
 
 code3-dev/CCloud-GUI
+2dust/v2rayng
