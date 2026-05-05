@@ -238,6 +238,19 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="serhmarch--modbustools"></div>
+
+### serhmarch--ModbusTools
+
+🔗 [source](https://github.com/serhmarch/ModbusTools) – [<code><small>v0.5.0</small></code>](https://github.com/serhmarch/ModbusTools/releases/tag/v0.5.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `mbtools_0.5.0_amd64.tgz` | 4.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/serhmarch/ModbusTools/mbtools_0.5.0_amd64.tgz) |
+| `mbtools_0.5.0_amd64.zip` | 14.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/serhmarch/ModbusTools/mbtools_0.5.0_amd64.zip) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
