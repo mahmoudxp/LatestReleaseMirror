@@ -20,4 +20,4 @@ KaringX/karing|\.dmg|\.exe
 
 net2share/vaydns/.exe
 
-code3-dev/CCloud-GUI/.exe
+code3-dev/CCloud-GUI/.exe|.zip
