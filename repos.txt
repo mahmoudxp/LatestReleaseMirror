@@ -20,3 +20,4 @@ KaringX/karing|\.dmg|\.exe
 
 code3-dev/CCloud-GUI
 2dust/v2rayng
+serhmarch/ModbusTools
