@@ -18,6 +18,6 @@ KaringX/karing|\.dmg|\.exe
 # 5. Disable a line by commenting it with #
 # masterking32/MasterDnsVPN|Client_MacOS_AMD64.zip|Client_Windows_AMD64.zip
 
-net2share/vaydns/.exe
+net2share/vaydns
 
-code3-dev/CCloud-GUI/.exe|.zip
+code3-dev/CCloud-GUI
