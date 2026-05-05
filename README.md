@@ -200,6 +200,23 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="code3-dev--ccloud-gui"></div>
+
+### code3-dev--CCloud-GUI
+
+🔗 [source](https://github.com/code3-dev/CCloud-GUI) – [<code><small>v1.0.4</small></code>](https://github.com/code3-dev/CCloud-GUI/releases/tag/v1.0.4)
+
+| File | Size | Download |
+|------|------|----------|
+| `CCloud-linux.tar.gz` | 15.9 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/code3-dev/CCloud-GUI/CCloud-linux.tar.gz) |
+| `CCloud-macos-universal.dmg` | 35.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/code3-dev/CCloud-GUI/CCloud-macos-universal.dmg) |
+| `CCloud-windows-portable.zip` | 30.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/code3-dev/CCloud-GUI/CCloud-windows-portable.zip) |
+| `ccloud.deb` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/code3-dev/CCloud-GUI/ccloud.deb) |
+| `ccloud.rpm` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/code3-dev/CCloud-GUI/ccloud.rpm) |
+| `ccloud_gui-setup.exe` | 24.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/code3-dev/CCloud-GUI/ccloud_gui-setup.exe) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
