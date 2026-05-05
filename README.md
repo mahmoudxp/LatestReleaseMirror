@@ -157,6 +157,27 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayng"></div>
+
+### 2dust--v2rayng
+
+🔗 [source](https://github.com/2dust/v2rayng) – [<code><small>2.0.18</small></code>](https://github.com/2dust/v2rayng/releases/tag/2.0.18)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayNG_2.0.18-fdroid_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18-fdroid_arm64-v8a.apk) |
+| `v2rayNG_2.0.18-fdroid_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18-fdroid_armeabi-v7a.apk) |
+| `v2rayNG_2.0.18-fdroid_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18-fdroid_universal.apk) |
+| `v2rayNG_2.0.18-fdroid_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18-fdroid_x86.apk) |
+| `v2rayNG_2.0.18-fdroid_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18-fdroid_x86_64.apk) |
+| `v2rayNG_2.0.18_arm64-v8a.apk` | 26.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18_arm64-v8a.apk) |
+| `v2rayNG_2.0.18_armeabi-v7a.apk` | 27.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18_armeabi-v7a.apk) |
+| `v2rayNG_2.0.18_universal.apk` | 61.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18_universal.apk) |
+| `v2rayNG_2.0.18_x86.apk` | 28.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18_x86.apk) |
+| `v2rayNG_2.0.18_x86_64.apk` | 27.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayng/v2rayNG_2.0.18_x86_64.apk) |
+
+---
+
 <div id="karingx--karing"></div>
 
 ### KaringX--karing
@@ -221,15 +242,15 @@ sha256sum FILE_NAME
 
 ### therealaleph--MasterHttpRelayVPN-RUST
 
-🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.10</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.10)
+🔗 [source](https://github.com/therealaleph/MasterHttpRelayVPN-RUST) – [<code><small>v1.9.13</small></code>](https://github.com/therealaleph/MasterHttpRelayVPN-RUST/releases/tag/v1.9.13)
 
 | File | Size | Download |
 |------|------|----------|
-| `mhrv-rs-android-arm64-v8a-v1.9.10.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.10.apk) |
-| `mhrv-rs-android-armeabi-v7a-v1.9.10.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.10.apk) |
-| `mhrv-rs-android-universal-v1.9.10.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.10.apk) |
-| `mhrv-rs-android-x86-v1.9.10.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.10.apk) |
-| `mhrv-rs-android-x86_64-v1.9.10.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.10.apk) |
+| `mhrv-rs-android-arm64-v8a-v1.9.13.apk` | 18.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-arm64-v8a-v1.9.13.apk) |
+| `mhrv-rs-android-armeabi-v7a-v1.9.13.apk` | 15.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-armeabi-v7a-v1.9.13.apk) |
+| `mhrv-rs-android-universal-v1.9.13.apk` | 39.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-universal-v1.9.13.apk) |
+| `mhrv-rs-android-x86-v1.9.13.apk` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86-v1.9.13.apk) |
+| `mhrv-rs-android-x86_64-v1.9.13.apk` | 19.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-android-x86_64-v1.9.13.apk) |
 | `mhrv-rs-linux-amd64.tar.gz` | 8.1 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-amd64.tar.gz) |
 | `mhrv-rs-linux-arm64.tar.gz` | 1.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-arm64.tar.gz) |
 | `mhrv-rs-linux-musl-amd64.tar.gz` | 2.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/therealaleph/MasterHttpRelayVPN-RUST/mhrv-rs-linux-musl-amd64.tar.gz) |
