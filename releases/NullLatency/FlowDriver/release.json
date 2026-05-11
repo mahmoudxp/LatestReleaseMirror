@@ -1,7 +1,7 @@
 {
-  "tag": "v0.0.4",
+  "tag": "v0.0.5",
   "status": "stable",
-  "published_at": "2026-04-24T17:34:59Z",
+  "published_at": "2026-05-11T17:25:00Z",
   "filter_pattern": "linux-amd64|darwin-amd64",
-  "updated_at": "2026-05-04T17:22:28Z"
+  "updated_at": "2026-05-11T17:50:04Z"
 }
