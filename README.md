@@ -221,6 +221,41 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="aleskxyz--coredns"></div>
+
+### aleskxyz--coredns
+
+🔗 [source](https://github.com/aleskxyz/coredns) – [<code><small>v1.14.3</small></code>](https://github.com/aleskxyz/coredns/releases/tag/v1.14.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `coredns_1.14.3_darwin_amd64.tgz` | 21.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_darwin_amd64.tgz) |
+| `coredns_1.14.3_darwin_amd64.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_darwin_amd64.tgz.sha256) |
+| `coredns_1.14.3_darwin_arm64.tgz` | 19.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_darwin_arm64.tgz) |
+| `coredns_1.14.3_darwin_arm64.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_darwin_arm64.tgz.sha256) |
+| `coredns_1.14.3_linux_amd64.tgz` | 21.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_amd64.tgz) |
+| `coredns_1.14.3_linux_amd64.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_amd64.tgz.sha256) |
+| `coredns_1.14.3_linux_arm.tgz` | 19.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_arm.tgz) |
+| `coredns_1.14.3_linux_arm.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_arm.tgz.sha256) |
+| `coredns_1.14.3_linux_arm64.tgz` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_arm64.tgz) |
+| `coredns_1.14.3_linux_arm64.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_arm64.tgz.sha256) |
+| `coredns_1.14.3_linux_mips.tgz` | 18.4 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_mips.tgz) |
+| `coredns_1.14.3_linux_mips.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_mips.tgz.sha256) |
+| `coredns_1.14.3_linux_mips64le.tgz` | 17.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_mips64le.tgz) |
+| `coredns_1.14.3_linux_mips64le.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_mips64le.tgz.sha256) |
+| `coredns_1.14.3_linux_ppc64le.tgz` | 18.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_ppc64le.tgz) |
+| `coredns_1.14.3_linux_ppc64le.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_ppc64le.tgz.sha256) |
+| `coredns_1.14.3_linux_riscv64.tgz` | 19.9 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_riscv64.tgz) |
+| `coredns_1.14.3_linux_riscv64.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_riscv64.tgz.sha256) |
+| `coredns_1.14.3_linux_s390x.tgz` | 20.9 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_s390x.tgz) |
+| `coredns_1.14.3_linux_s390x.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_linux_s390x.tgz.sha256) |
+| `coredns_1.14.3_windows_amd64.tgz` | 21.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.tgz) |
+| `coredns_1.14.3_windows_amd64.tgz.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.tgz.sha256) |
+| `coredns_1.14.3_windows_amd64.zip` | 21.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.zip) |
+| `coredns_1.14.3_windows_amd64.zip.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/aleskxyz/coredns/coredns_1.14.3_windows_amd64.zip.sha256) |
+
+---
+
 <div id="code3-dev--ccloud-gui"></div>
 
 ### code3-dev--CCloud-GUI
