@@ -23,4 +23,5 @@ code3-dev/CCloud-GUI
 kamalalhagh/kevinnet-dns
 mps-youtube/yewtube
 aleskxyz/coredns
+g3ntrix/Shade
 
