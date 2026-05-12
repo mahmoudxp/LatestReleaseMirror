@@ -22,3 +22,4 @@ code3-dev/CCloud-GUI
 2dust/v2rayng
 kamalalhagh/kevinnet-dns
 mps-youtube/yewtube
+aleskxyz/coredns
