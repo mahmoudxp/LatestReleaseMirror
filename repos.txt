@@ -24,4 +24,5 @@ kamalalhagh/kevinnet-dns
 mps-youtube/yewtube
 aleskxyz/coredns
 g3ntrix/Shade
+MaxiFan/TunnelX
 
