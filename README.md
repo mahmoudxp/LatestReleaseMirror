@@ -191,6 +191,18 @@ sha256sum FILE_NAME
 
 ---
 
+<div id="maxifan--tunnelx"></div>
+
+### MaxiFan--TunnelX
+
+🔗 [source](https://github.com/MaxiFan/TunnelX) – [<code><small>v1.2.24</small></code>](https://github.com/MaxiFan/TunnelX/releases/tag/v1.2.24)
+
+| File | Size | Download |
+|------|------|----------|
+| `TunnelX-v1.2.24-standalone-compressed.exe.sha256` | 0 KB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/MaxiFan/TunnelX/TunnelX-v1.2.24-standalone-compressed.exe.sha256) |
+
+---
+
 <div id="nulllatency--flowdriver"></div>
 
 ### NullLatency--FlowDriver
