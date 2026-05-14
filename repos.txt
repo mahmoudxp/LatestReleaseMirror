@@ -20,6 +20,7 @@ KaringX/karing|\.dmg|\.exe
 
 code3-dev/CCloud-GUI
 2dust/v2rayng
+2dust/v2rayn
 kamalalhagh/kevinnet-dns
 mps-youtube/yewtube
 aleskxyz/coredns
