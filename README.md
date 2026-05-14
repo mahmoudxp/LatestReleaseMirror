@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="2dust--v2rayn"></div>
+
+### 2dust--v2rayn
+
+🔗 [source](https://github.com/2dust/v2rayn) – [<code><small>7.21.3</small></code>](https://github.com/2dust/v2rayn/releases/tag/7.21.3)
+
+| File | Size | Download |
+|------|------|----------|
+| `v2rayN-linux-rhel-riscv64.rpm` | 78.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mahmoudxp/LatestReleaseMirror/main/releases/2dust/v2rayn/v2rayN-linux-rhel-riscv64.rpm) |
+
+---
+
 <div id="2dust--v2rayng"></div>
 
 ### 2dust--v2rayng
