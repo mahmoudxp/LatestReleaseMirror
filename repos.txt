@@ -26,3 +26,5 @@ aleskxyz/coredns
 g3ntrix/Shade
 MaxiFan/TunnelX
 amirshaker000/netlify-relay
+patterniha/MITM-DomainFronting
+patterniha/SNI-Spoofing
